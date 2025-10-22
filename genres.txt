@@ -18,6 +18,7 @@ soundtrack
 world
 
 ambient
+arena rock
 emo
 folk metal
 grunge
@@ -29,6 +30,7 @@ j-rock
 glam rock
 metal
 metalcore
+nu metal
 power metal
 punk
 thrash metal
