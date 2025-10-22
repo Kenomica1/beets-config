@@ -26,6 +26,7 @@ holiday
 j-Pop
 k-Pop
 j-rock
+glam rock
 metal
 metalcore
 power metal
