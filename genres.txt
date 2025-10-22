@@ -1,0 +1,33 @@
+african
+asian
+avante-garde
+blues
+classical
+comedy
+country
+easy listening
+electronic
+folk
+hip hop
+jazz
+kids music
+pop
+rock
+reggae
+soundtrack
+world
+
+ambient
+emo
+folk metal
+grunge
+butt rock
+holiday
+j-Pop
+k-Pop
+j-rock
+metal
+metalcore
+power metal
+punk
+thrash metal
