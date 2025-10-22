@@ -519,9 +519,6 @@
     - old school hip hop
     - political hip hop
     - rap opera
-    - rap rock:
-        - rap metal
-        - rapcore
     - songo-salsa
     - southern hip hop:
         - atlanta hip hop:
@@ -652,7 +649,6 @@
             - twee pop
         - indie rock
         - noise pop
-        - nu metal
         - post-punk revival
         - post rock
         - post-rock:
@@ -672,6 +668,7 @@
     - garage rock
     - glam rock
     - hard rock
+    - arena rock
     - metal:
         - heavy metal
         - alternative metal:
@@ -704,6 +701,10 @@
                 - djent
             - synthcore
         - neoclassical metal
+        - nu metal:
+            - rap rock:
+                - rap metal
+                - rapcore
         - post-metal
         - power metal:
             - progressive power metal
