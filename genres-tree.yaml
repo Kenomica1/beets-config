@@ -174,8 +174,8 @@
     - modern classical
     - opera
     - oratorio
-    - orchestra:
-        - orchestral
+    - orchestral:
+        - orchestra
         - symphonic
         - symphony
     - organum
@@ -478,6 +478,15 @@
     - psychedelic folk
     - sung poetry
     - techno-folk
+    - folk punk:
+        - celtic punk
+        - gypsy punk
+        - pirate punk
+    - folk metal:
+        - celtic metal
+        - medieval metal
+        - pagan metal
+        - viking metal
 - hip hop:
     - alternative hip hop
     - avant-garde hip hop
@@ -538,6 +547,28 @@
 - holiday:
     - christmas:
         - xmas
+        - yule
+        - christmas music
+        - christmas songs
+        - christmas carols
+        - christmas pop
+        - christmas rock
+        - christmas jazz
+        - christmas classical
+        - christmas choir
+        - festive
+        - seasonal
+    - hanukkah:
+        - chanukah
+        - hanukkah music
+    - kwanzaa
+    - new year:
+        - new year’s
+        - nye
+    - winter:
+        - winter music
+        - winter songs
+        - holiday instrumental
 - jazz:
     - asian american jazz
     - avant-garde jazz
@@ -588,6 +619,61 @@
     - west coast jazz
 - kids music:
     - kinderlieder
+- metal:
+    - heavy metal
+    - alternative metal:
+        - funk metal
+    - black metal
+    - christian metal
+    - death metal:
+        - death/doom
+        - goregrind
+        - technical death metal
+    - doom metal:
+        - epic doom metal
+        - funeral doom
+    - drone metal
+    - folk metal:
+        - celtic metal
+        - medieval metal
+        - pagan metal
+    - glam metal
+    - gothic metal
+    - industrial metal:
+        - industrial death metal
+    - metalcore:
+        - deathcore
+        - mathcore:
+            - djent
+        - synthcore
+        - melodic metalcore
+        - melodic death metal
+    - neoclassical metal
+    - nu metal:
+        - funk metal
+        - rap rock:
+            - rap metal
+            - rapcore
+    - post-metal
+    - power metal:
+        - progressive power metal
+        - epic metal
+        - symphonic power metal
+    - progressive metal
+    - sludge metal
+    - speed metal
+    - stoner rock:
+        - stoner metal
+    - symphonic metal:
+        - symphonic power metal
+    - thrash metal:
+        - crossover thrash
+        - groove metal
+        - progressive thrash metal
+        - teutonic thrash metal
+    - traditional heavy metal
+    - kawaii metal
+    - love metal
 - pop:
     - adult contemporary
     - arab pop
@@ -642,12 +728,16 @@
             - post-britpop
         - dream pop
         - grunge:
-            - butt rock:
+            - radio rock:
                 - post-grunge
-        - indie pop:
-            - dunedin sound
-            - twee pop
-        - indie rock
+                - dad rock
+                - bro rock
+                - butt rock
+        - indie:
+            - indie rock
+            - indie pop:
+                - dunedin sound
+                - twee pop
         - noise pop
         - post-punk revival
         - post rock
@@ -669,59 +759,6 @@
     - glam rock
     - hard rock
     - arena rock
-    - metal:
-        - heavy metal
-        - alternative metal:
-            - funk metal
-        - black metal:
-            - viking metal
-        - christian metal
-        - death metal:
-            - death/doom
-            - goregrind
-            - melodic death metal
-            - technical death metal
-        - doom metal:
-            - epic doom metal
-            - funeral doom
-        - drone metal
-        - epic metal
-        - folk metal:
-            - celtic metal
-            - medieval metal
-            - pagan metal
-        - funk metal
-        - glam metal
-        - gothic metal
-        - industrial metal:
-            - industrial death metal
-        - metalcore:
-            - deathcore
-            - mathcore:
-                - djent
-            - synthcore
-        - neoclassical metal
-        - nu metal:
-            - rap rock:
-                - rap metal
-                - rapcore
-        - post-metal
-        - power metal:
-            - progressive power metal
-        - progressive metal
-        - sludge metal
-        - speed metal
-        - stoner rock:
-            - stoner metal
-        - symphonic metal
-        - thrash metal:
-            - crossover thrash
-            - groove metal
-            - progressive thrash metal
-            - teutonic thrash metal
-        - traditional heavy metal
-        - kawaii metal
-        - love metal
     - math rock
     - new wave:
         - world fusion
@@ -754,6 +791,7 @@
         - folk punk:
             - celtic punk
             - gypsy punk
+            - pirate punk
         - garage punk
         - grindcore:
             - crustgrind
@@ -798,8 +836,17 @@
         - rocksteady
     - dub
 - soundtrack:
-  - video game music
-  - score
+    - original soundtrack
+    - ost
+    - score
+    - film score
+    - movie soundtrack
+    - video game music
+    - vgm
+    - game soundtrack
+    - anime soundtrack
+    - orchestral soundtrack
+    - instrumental soundtrack
 - singer-songwriter:
     - cantautorato
     - cantautor
