@@ -2,35 +2,40 @@ african
 asian
 avante-garde
 blues
-classical
 comedy
 country
 easy listening
 electronic
 folk
 hip hop
+holiday
 jazz
 kids music
+metal
 pop
 rock
 reggae
 soundtrack
 world
 
-ambient
-arena rock
+alternative rock
+classic rock
+dubstep
+drum and bass
 emo
 folk metal
 grunge
-butt rock
-holiday
-j-Pop
-k-Pop
+indie
+j-pop
 j-rock
-glam rock
-metal
+k-pop
 metalcore
 nu metal
+orchestral
+pop rock
+pop punk
 power metal
 punk
+radio rock
+synthpop
 thrash metal
